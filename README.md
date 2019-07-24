@@ -1,6 +1,7 @@
 # spring-cloud-frame
 整合的SpringCloud基础框架支持
-* 初步整合spring cloud框架：
+
+初步整合spring cloud框架：
 
 1.整合注册中心
 
