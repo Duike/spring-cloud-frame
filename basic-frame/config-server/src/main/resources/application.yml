@@ -13,6 +13,6 @@ spring:
         git:
           uri: https://github.com/Duike/SpringcloudConfig/
           searchPaths: respo
-          username: 405971652@qq.com
-          password: zhejuhua000*-
+          username:
+          password:
       label: master
