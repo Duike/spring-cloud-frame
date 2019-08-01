@@ -1,0 +1,19 @@
+server:
+  port: 8989
+
+spring:
+  zipkin:
+    base-url: "http://localhost:9411/"
+  sleuth:
+    sampler:
+      # 设置采集日志的百分比
+      probability: 1
+
+  application:
+    name: service-miya
+
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8761/eureka/
+
